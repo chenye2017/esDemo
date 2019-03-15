@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/vendor/easyswoole/easyswoole" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/joshcam/mysqli-database-class" vcs="Git" />
+  </component>
+</project>

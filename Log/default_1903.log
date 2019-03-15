@@ -1,0 +1,6 @@
+19-03-04 20:55:25:task is num:2 is handle by process:consumer_0
+19-03-04 20:55:25:task is num:3 is handle by process:consumer_1
+19-03-04 20:55:25:task is num:1 is handle by process:consumer_2
+19-03-04 21:01:07:task is num:7 is handle by process:consumer_2
+19-03-04 21:22:38:task is num::1 is handle by process:consumer_2 pid is :28762
+19-03-04 21:22:38:task is num:8 is handle by process:consumer_2 pid is :28762
